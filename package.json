@@ -1,0 +1,14 @@
+{
+  "name": "krillion-bot",
+  "version": "1.0.0",
+  "main": "krillion-bot.js",
+  "scripts": {
+    "start": "node krillion-bot.js",
+    "test": "node test-krillion.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.0",
+    "node-cron": "^3.0.3",
+    "pg": "^8.20.0"
+  }
+}
